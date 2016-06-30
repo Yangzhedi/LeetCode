@@ -1,4 +1,8 @@
 /**
+ * 给定一个数组和一个目标，
+ * 数组中两个数相加如果等于目标值，返回两个数的下标组成的数组
+ */
+/**
  * @param {number[]} nums
  * @param {number} target
  * @return {number[]}
